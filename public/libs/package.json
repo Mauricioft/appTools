@@ -1,0 +1,26 @@
+{
+  "name": "app-tools",
+  "version": "1.0.0",
+  "description": "Es una aplicacion que contiene un conjunto de herramientas para el desarrollo web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauricioft/appTools.git"
+  },
+  "author": "Mauricio Flor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mauricioft/appTools/issues"
+  },
+  "homepage": "https://github.com/Mauricioft/appTools#readme",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-smart-table": "^2.1.8",
+    "angular-ui-bootstrap": "^2.3.0",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7"
+  }
+}
